@@ -1,6 +1,6 @@
 require zlib-qat.inc
 
-DEPENDS += "qat17"
+DEPENDS += "qat18"
 
 SRC_URI += "https://01.org/sites/default/files/downloads/zlibshim0.4.10-003.tar.gz;name=zlibqat \
            file://zlib-qat-0.4.10-001-zlib-qat-add-a-install-target-to-makefile.patch \
